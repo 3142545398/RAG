@@ -1,8 +1,7 @@
-核心技术栈包括 ElasticSearch、Kafka、WebSocket、Spring Security、Docker、MySQL 和 Redis。
+核心技术栈包括 ElasticSearch、Kafka、WebSocket、Docker、MySQL 和 Redis。
 
-它的目标是帮助企业和个人更高效地管理和利用知识库中的信息，支持多租户架构，允许用户通过自然语言查询知识库，并获得基于自身文档的 AI 生成响应。
+它的目标是帮助企业和个人更高效地管理和利用知识库中的信息，允许用户通过自然语言查询知识库，并获得基于自身文档的 AI 生成响应。
 
-![派聪明多模块架构](https://cdn.tobebetterjavaer.com/stutymore/README-20250730102133.png)
 
 系统允许用户：
 
